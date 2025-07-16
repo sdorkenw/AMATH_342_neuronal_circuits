@@ -1,6 +1,6 @@
 # AMATH 342 Lecture on Connectomics and Neuronal circuits
 
-Lecture slides: Coming soon
+Lecture slides: https://docs.google.com/presentation/d/1ZyXc2zBzS2KMydFA2fvLIilq8NcGifHcO4bk_7jZGy8/edit?usp=sharing
 
 
 ## Lecture notebooks 
